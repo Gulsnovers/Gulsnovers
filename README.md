@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Gulsnovers
+- 👋 Hi, I’m @Gulsnover Singh
 - 👀 I’m interested in Software Building
 - 💞️ I’m looking to collaborate on Software
 - 📫 How to reach me gulsnover.s@gmail.com
-- 😄 Pronouns: his/him
 - ⚡ Fun fact: I love dogs
 
 <!---
